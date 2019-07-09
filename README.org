@@ -1,0 +1,9 @@
+* Adwaita but too dark!
+  Based on the build of [[https://github.com/refi64/adwaita-refresh-installer][adwaita-refresh-installer]] and the magic of [[https://github.com/Naheel-Azawy/darken-css][darken-css]] to be used in my [[https://github.com/Naheel-Azawy/naheel-dotfiles][dotfiles]].
+  [[./screenshot.png]]
+** Installation
+   #+begin_src shell 
+  sudo make install
+   #+end_src
+** License
+   GPL3
